@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+demo_image/orginal1_অংক.png	অংক                      	0.9993
+demo_image/orginal1_অংশপ্রদান.png	অংশপ্রদান                	0.9971
+demo_image/orginal1_অকার্যকর.png	অকার্যকর                 	0.9995
+demo_image/orginal1_অক্ষি.png	অক্ষি                    	0.9989
+demo_image/orginal1_অগ্নি-নির্বাপণ.png	অগ্নি-নির্বাপণ           	0.7489
+demo_image/orginal1_অগ্নিগোলক.png	অগ্নিগোলক                	0.9703
+demo_image/orginal1_অগ্রবর্তী.png	অগ্রবর্তী                	0.9990
+demo_image/orginal1_অঙ্কিত.png	অঙ্কিত                   	0.9980
+demo_image/orginal1_অঙ্কুরিত.png	অঙ্কুরিত                 	0.9981
+demo_image/orginal1_অচল.png	অচল                      	0.9990
+demo_image/orginal1_অচলবস্থা.png	অচলবস্থা                 	0.9985
+demo_image/orginal1_অজ্ঞাতনামা.png	অজ্ঞাতনামা               	0.9932
+demo_image/orginal1_অডিও.png	অডিও                     	0.9993
+demo_image/orginal1_অতল.png	অতল                      	0.9994
+demo_image/orginal1_অতি.png	অতি                      	0.9994
+demo_image/orginal1_অতিক্রম.png	অতিক্রম                  	0.9996
+demo_image/orginal1_অতিরিক্ত.png	অতিরিক্ত                 	0.9996
+demo_image/orginal1_অতিরিক্তভাবে.png	অতিরিক্তভাবে             	0.9939
+demo_image/orginal1_অত্যন্ত.png	অত্যন্ত                  	0.9995
+demo_image/orginal1_অত্যান্ত.png	অত্যান্ত                 	0.9996
+demo_image/orginal1_অধঃপতন.png	অধঃপতন                   	0.9733
+demo_image/orginal1_অধঃপতিত.png	অধঃপতিত                  	0.9825
+demo_image/orginal1_অধিক.png	অধিক                     	0.9995
+demo_image/orginal1_অধিকাংশ.png	অধিকাংশ                  	0.9981
+demo_image/orginal1_অধিগ্রহণ.png	অধিগ্রহণ                 	0.9984
+demo_image/orginal1_অধিনায়ক.png	অধিনায়ক                  	0.9574
+demo_image/orginal1_অধিবৃত্তি.png	অধিবৃত্তি                	0.9972
+demo_image/orginal1_অধিবেশন.png	অধিবেশন                  	0.9994
