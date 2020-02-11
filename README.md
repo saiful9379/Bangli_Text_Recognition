@@ -49,6 +49,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 ```
 
 # Download pretrain model:
+The model accuracy 97.45
 - [model](https://drive.google.com/file/d/1O0EhtSP_m-pQZS5MPqXJzl4SoN79cxl5/view?usp=sharing)
 
 # Test Demo
@@ -67,3 +68,8 @@ python demo.py \
 --image_folder demo_image/ \
 --saved_model saved_models/best_accuracy.pth
 ```
+# Screenshot
+![1](https://github.com/saiful79/Bangla_OCR/blob/master/img/1.png)
+![2](https://github.com/saiful79/Bangla_OCR/blob/master/img/2.png)
+![3](https://github.com/saiful79/Bangla_OCR/blob/master/img/3.png)
+![4](https://github.com/saiful79/Bangla_OCR/blob/master/img/4.png)
