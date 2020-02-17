@@ -47,6 +47,15 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 --select_data / --batch_ratio 1 \
 --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn
 ```
+# Test
+```
+CUDA_VISIBLE_DEVICES=0 python3 test.py \
+--eval_data mdb_dataset/val --benchmark_all_eval \
+--Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn \
+--saved_model saved_models/TPS-ResNet-BiLSTM-Attn-Seed1111/best_accuracy.pth
+
+```
+
 
 # Download pretrain model:
 The model accuracy 97.45
